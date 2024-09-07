@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<img src = "akash.jpeg">
+<img src = "osim1.png">
 
 
 <p align="center">
