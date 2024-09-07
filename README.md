@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<img src = "images/akash.jpg">
+<img src = "akash.jpg">
 
 
 <p align="center">
