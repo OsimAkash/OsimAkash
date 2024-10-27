@@ -17,7 +17,7 @@ I have a strong solid background of 1+ years in Web Development. I have develope
 <p float="left">
   <img src="php.svg" height="48px">
   <img src="mysql.png" height="48px">
-\  <img src="bootstrap5.png" height="48px">          
+ <img src="bootstrap5.png" height="48px">          
   <img src="css.png" height="48px">   
   <img src="html-5.png" height="48px">
   <img src="javascript.png" height="48px">
