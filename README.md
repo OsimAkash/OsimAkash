@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Osim Kumar Roy Akash</h1>
 
 <p align="center">
-    <img src="osim2..jpeg" alt="Osim Kumar Roy Akash" width="180" style="border-radius:50%; box-shadow:0 4px 24px rgba(0,0,0,0.2);">
+    <img src="osim2..jpeg" alt="Osim Kumar Roy Akash" width="100%" style="border-radius:50%; box-shadow:0 4px 24px rgba(0,0,0,0.2);">
 </p>
 
 <p align="center">
