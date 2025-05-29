@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-    I have a strong background of 1+ years in Web Development.<br>
-    I've developed many web-based applications, including online training software and more.
+    <b>Web Developer | 1+ years experience</b><br>
+    Developed web-based applications, including online training software and more.
 </p>
 
 ---
@@ -33,19 +33,49 @@
 
 ---
 
-<div align="center">
-    
-| 🔭 I’m currently working on | ... |
-|----------------------------|-----|
-| 🌱 I’m currently learning   | ... |
-| 👯 I’m looking to collaborate on | ... |
-| 🤔 I’m looking for help with | ... |
-| 💬 Ask me about            | ... |
-| 📫 How to reach me         | ... |
-| 😄 Pronouns                | ... |
-| ⚡ Fun fact                | ... |
+<h3 align="center">🚀 Problem Solving</h3>
+<p align="center">
+    <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white" alt="LeetCode"></a>
+    <a href="https://www.codewars.com/"><img src="https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=Codewars&logoColor=white" alt="Codewars"></a>
+    <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
+</p>
 
-</div>
+---
+
+<table align="center">
+    <tr>
+        <td>🔭 I’m currently working on</td>
+        <td>...</td>
+    </tr>
+    <tr>
+        <td>🌱 I’m currently learning</td>
+        <td>...</td>
+    </tr>
+    <tr>
+        <td>👯 I’m looking to collaborate on</td>
+        <td>...</td>
+    </tr>
+    <tr>
+        <td>🤔 I’m looking for help with</td>
+        <td>...</td>
+    </tr>
+    <tr>
+        <td>💬 Ask me about</td>
+        <td>...</td>
+    </tr>
+    <tr>
+        <td>📫 How to reach me</td>
+        <td>...</td>
+    </tr>
+    <tr>
+        <td>😄 Pronouns</td>
+        <td>...</td>
+    </tr>
+    <tr>
+        <td>⚡ Fun fact</td>
+        <td>...</td>
+    </tr>
+</table>
 
 ---
 
