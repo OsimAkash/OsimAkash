@@ -26,9 +26,6 @@ I have a strong solid background of 1+ years in Web Development. I have develope
   <img src="github.png" height="48px">
 </p>
 <div style="max-width: 600px; margin: 40px auto; padding: 32px; background: #0d1117; color: #c9d1d9; border-radius: 16px; box-shadow: 0 4px 24px rgba(0,0,0,0.5); font-family: 'Segoe UI', 'Roboto', Arial, sans-serif;">
-    <h1 style="text-align:center; font-size:2.5rem; margin-bottom: 16px;">
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width:48px;vertical-align:middle;margin-right:12px;">Hi, I'm <span style="color:#58a6ff;">Your Name</span>!
-    </h1>
     <ul style="list-style:none; padding:0; font-size:1.15rem; line-height:2;">
         <li>🔭 <strong>I’m currently working on</strong>: <span style="color:#58a6ff;">...</span></li>
         <li>🌱 <strong>I’m currently learning</strong>: <span style="color:#58a6ff;">...</span></li>
